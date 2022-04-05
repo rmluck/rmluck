@@ -12,6 +12,7 @@ Below are the relevant courses I have taken:
 - I&C SCI 6B        : Boolean Logic and Discrete Structures     (Fall 2021)
 - I&C SCI 90        : New C.S. Student Seminar                  (Fall 2021)
 
+
 - Engineering Design and Development (2020-21)
 - AP Computer Science Applications (2019-20)
 - Civil Engineering and Architecture (2019-20)
