@@ -1,4 +1,4 @@
-### Hello there!
+### Hello there! 👋
 My name is Rohan Mistry (@rmluck). I am currently a first-year student (sophomore in standing) from Chino Hills, CA studying at UC Irvine, studying Computer Science at the Donald Bren School of Information and Computer Sciences. I have had an interest in computer science for a long time and am very excited to be able to pursue that passion at college now.
 
 ## Contact
