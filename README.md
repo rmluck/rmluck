@@ -32,5 +32,8 @@ Below are the relevant courses I have taken:
 ## Skills
 I have familiarized myself with Python over the first year in college and have some prior knowledge in JavaScript, HTML, CSS, and C++.
 
+## Projects
+You can find my I&C SCI 32 projects [here](https://github.com/stars/rmluck/lists/ics-32).
+
 ## High School
 Prior to entering college, I was a student at Ruben S. Ayala High, part of their Academy of Engineering and Computer Sciences for four years. Co-founded the Ayala VEX Robotics Club and Ayala Information & Computer Science Club. For the former, I was treasurer for three years, managing the club's budget, scheduling fundraisers and purchasing necessary robotics parts and equipment. I was also the primary programmer (C++) for my individual robotics team for four years.
