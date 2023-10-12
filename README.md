@@ -1,5 +1,5 @@
 ### Hello there! 👋
-My name is **Rohan Mistry** (@rmluck). I am currently a first-year student (sophomore in standing) from Chino Hills, CA enrolled at [UC Irvine](https://www.uci.edu), studying Computer Science at the [Donald Bren School of Information and Computer Sciences](https://www.ics.uci.edu). I have had an interest in computer science for a long time and am very excited to be able to pursue that passion at college now!
+My name is **Rohan Mistry** (@rmluck). I am currently a third-year student (sophomore in standing) from Chino Hills, CA enrolled at [UC Irvine](https://www.uci.edu), studying Computer Science at the [Donald Bren School of Information and Computer Sciences](https://www.ics.uci.edu). I have had an interest in computer science for a long time and am very excited to be able to pursue that passion at college now!
 
 ## Contact
 You can reach out to me via email at rohandm99@yahoo.com, Discord, Instagram, Twitter, or LinkedIn!
