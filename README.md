@@ -8,8 +8,8 @@ You can reach out to me via email at rohandm99@yahoo.com, Discord, Instagram, or
 <a href="https://www.instagram.com/rohandm99/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100px"/></a>
 <a href="https://discordapp.com/users/740331366360809504"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100px"/></a>
 
-Links above
 
+<br/>
 
 
 ## Academics
