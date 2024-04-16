@@ -2,11 +2,10 @@
 My name is **Rohan Mistry** (@rmluck). I am currently a third-year student from Chino Hills, CA enrolled at [UC Irvine](https://www.uci.edu), studying Computer Science at the [Donald Bren School of Information and Computer Sciences](https://www.ics.uci.edu). I have had an interest in computer science for a long time and am very excited to be able to pursue that passion at college now!
 
 ## Contact
-You can reach out to me via email at rohandm99@yahoo.com, Discord, Instagram, Twitter, or LinkedIn!
+You can reach out to me via email at rohandm99@yahoo.com, Discord, Instagram, or LinkedIn!
 
 [<img src='https://user-images.githubusercontent.com/102389484/161869341-42baa76f-a773-417d-849f-f70496f52368.svg' width='30' height='30'>](http://discordapp.com/users/740331366360809504)&nbsp;&nbsp;&nbsp;
 [<img src='https://user-images.githubusercontent.com/102389484/161869177-fa017ea8-f2bc-46c3-8309-7caca36235d1.png' width='30' height='30'>](https://www.instagram.com/rohandm99/)&nbsp;&nbsp;&nbsp;
-[<img src='https://user-images.githubusercontent.com/102389484/161870112-aa27b1c8-14dd-4e33-b3f1-876f1acef128.svg' width='30' height='30'>](https://twitter.com/rohandm99)&nbsp;&nbsp;&nbsp;
 [<img src='https://user-images.githubusercontent.com/102389484/161870144-9581c44c-9c70-466e-9c26-e39d14474002.svg' width='30' height='30'>](www.linkedin.com/in/rohan-mistry-aa0047223)
 
 
