@@ -4,10 +4,9 @@ My name is **Rohan Mistry** (@rmluck). I am currently a third-year student from 
 ## Contact
 You can reach out to me via email at rohandm99@yahoo.com, Discord, Instagram, or LinkedIn!
 
-[<img src='https://user-images.githubusercontent.com/102389484/161869341-42baa76f-a773-417d-849f-f70496f52368.svg' width='30' height='30'>](http://discordapp.com/users/740331366360809504)&nbsp;&nbsp;&nbsp;
-[<img src='[https://user-images.githubusercontent.com/102389484/161869177-fa017ea8-f2bc-46c3-8309-7caca36235d1.png](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)' width='30' height='30'>](https://www.instagram.com/rohandm99/)&nbsp;&nbsp;&nbsp;
-[<img src='[https://user-images.githubusercontent.com/102389484/161870144-9581c44c-9c70-466e-9c26-e39d14474002.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)' width='30' height='30'>](www.linkedin.com/in/rohan-mistry-aa0047223)
-
+<a href="https://www.linkedin.com/in/cole-thompson-991682251/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"/></a>
+<a href="https://www.instagram.com/rohandm99/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100px"/></a>
+<a href="https://discordapp.com/users/740331366360809504"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100px"/></a>
 
 ## Academics
 <pre>
