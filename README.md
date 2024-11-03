@@ -13,7 +13,7 @@ You can reach out to me via email at rohandm99@yahoo.com, Discord, Instagram, or
 
 ## Experience
 
-### MKS Instruments - Product Marketing Intern, October 2023 - present
+### MKS Instruments - Product Marketing Intern, October 2023 - September 2024
 - Collaborate on meaningful marketing projects
 - Write web scraping code to make industry research more efficient
 - Assist with new product introduction activities
