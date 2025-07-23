@@ -1,10 +1,10 @@
 ### Hello there! 👋
-My name is **Rohan Mistry** (@rmluck). I am currently a fourth-year student from Chino Hills, CA enrolled at [UC Irvine](https://www.uci.edu), studying Computer Science at the [Donald Bren School of Information and Computer Sciences](https://www.ics.uci.edu). I have had an interest in computer science for a long time and am very excited to be able to pursue that passion at college now!
+My name is **Rohan Mistry** (@rmluck). I am an aspiring software engineer from Chino Hills, CA. Recently graduated from UC Irvine, with a Bachelor's Degree in Computer Science specializing in Intelligent Systems. Passionate about leveraging cutting-edge technologies to solve complex problems in the fields of Machine Learning, Web Development, Data Science, and Artificial Intelligence. Have gained experience in full-stack development, machine learning, information retrieval, data visualization, and backend data integration through internships, research projects, and academic coursework. Have strong analytical, programming, communication, and leadership skills, with a collaborative mindset and proactive learning approach, eager, to tackle new challenges in professional settings.
 
 ## Contact
 You can reach out to me via email at rohandm99@yahoo.com, Discord, Instagram, or LinkedIn!
 
-<a href="https://www.linkedin.com/in/cole-thompson-991682251/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"/></a>
+<a href="https://www.linkedin.com/in/rohan-dilan-mistry/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"/></a>
 <a href="https://www.instagram.com/rohandm99/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100px"/></a>
 <a href="https://discordapp.com/users/740331366360809504"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100px"/></a>
 
@@ -13,29 +13,42 @@ You can reach out to me via email at rohandm99@yahoo.com, Discord, Instagram, or
 
 ## Experience
 
+### Humanity Unleashed Initiative - Researcher, September 2024 - January 2025
+- Participated in multi-faceted AI open source research project
+- Focused on improving ability to model the world and predict outcomes of economic and policy interventions using advanced AI techniques like transformers and foundation models
+- Contributed to Data Collection team by curating and processing large-scale time series data from open government and international sources including Federal Reserve Economic Data (FRED), NYC Open Data, etc.
+- Contributed to Scaling Laws team by conducting analyses of research papers related to AI model behavior to inform performance optimization strategies across various computational resources
+- Contributed to Model Architeceture Explorations team by investigating ideas for innovative architectures to enhance AI capabilities
+- Contributed to Pretraining team by supporting development of large-scale pretraining pipeliens to prepare models for downstream tasks
+
 ### MKS Instruments - Product Marketing Intern, October 2023 - September 2024
-- Collaborate on meaningful marketing projects
-- Write web scraping code to make industry research more efficient
-- Assist with new product introduction activities
-- Edit marketing collateral
-- Review and edit web content
-- Research trends and competitors
-- Manage inventory analysis
-- Communicate with clients for promotional sales and activities
+- Played key role in streamlining product marketing processes through development and implementation of web scraping programs
+- Automated data collection for industry research, significantly improving both the efficiency and accuracy of company's data gathering efforts
+- Contributed to introduction of new products by creating and refining marketing collateral
+- Reviewed web content for consistency and clarity
+- Conducted thorough competitive analysis to better position products in market
+- Actively managed inventory analysis using online databases such as SAP, ensuring that promotional activities and new production integrations were well-coordinated
+- Contributed to client communications which drove forward sales initiatives
+- Involved in analytics projects by researching industry trends, competitor performance, and market dynamics
 
 ### Starship Technologies - Fleet Attendant, September 2022 - January 2023
-- Ran daily operations of innovative food delivery service using 50+ autonomous robots
-- Executed start-of-day/end-of-day charging and cleaning of robot fleet
-- Repaired robots and troubleshot during unexpected situations
-- Carried out maintenance activities and upgrades on robots and infrastructure
+- Oversaw the daily operations of a fleet of 50+ autonomous robots as part of an innovative food delivery platform
+- Managed start-of-day and end-of-day tasks such as charging, cleaning, and performing routine maintenance to ensure that robots were fully functional and able to complete deliveries without disruption
+- Worked closely with merchants to configure and program robots to carry out specific delivery tasks, ensuring that customer orders were fulfilled accurately and efficiently
+- Troubleshooted during unexpected incidents and collaborated with maintenance team to facilitate infrastructure upgrades that improved overall efficiency of operations
 - Maintained hub-based warehouse and conducted regular inventories
-- Communicated and collaborated with merchants
 
 ## Academics
 <pre>
 Below are the relevant courses I have taken at UC Irvine:
-- COMPSCI 165       : Project in Algorithms and Data Structures                       (Winter 2024)
-- IN4MATX 131       : Human Computer Interaction                                      (Winter 2024)
+- COMPSCI 142A      : Compilers and Interpreters                                      (Spring 2025)
+- COMPSCI 162       : Formal Languages and Automata                                   (Spring 2025)
+- COMPSCI 179       : Algorithms for Probabilistic and Deterministic Graphical Models (Spring 2025)
+- COMPSCI 122B      : Project in Databases and Web Applications                       (Fall 2024)
+- COMPSCI 141       : Concepts of Programming Languages I                             (Fall 2024)
+- COMPSCI 175       : Project in Artificial Intelligence                              (Fall 2024)
+- COMPSCI 165       : Project in Algorithms and Data Structures                       (Spring 2024)
+- IN4MATX 131       : Human Computer Interaction                                      (Spring 2024)
 - COMPSCI 178       : Machine Learning and Data-Mining                                (Winter 2024)
 - COMPSCI 143A      : Principles in Operating Systems                                 (Winter 2024)
 - COMPSCI 121       : Information Retrieval                                           (Fall 2023)
@@ -72,7 +85,7 @@ Below are the relevant courses I have taken at UC Irvine:
 - Introduction to Engineering Design (2017-18)
 </pre>
 
-At UC Irvine, I am also involved in various organizations such as:
+At UC Irvine, I was also involved in various organizations such as:
 - Sports Business Association
 - Data Science Club
 - Artificial Intelligence Club
@@ -83,12 +96,12 @@ At UC Irvine, I am also involved in various organizations such as:
 - Design Club
 - Association of Computing Machinery
 
-### Sports Business Association Board Member - S&E Intern, January 2024 - present
-- Host guest speakers from sports business industry
+### Sports Business Association Board Member - S&E Intern, January 2024 - December 2024
+- Hosted guest speakers from sports business industry
 - Networking opportunities and workshops to gain industry knowledge
 - Private tours of nearby sports facilities
-- Track organization member participation
-- Conduct data analysis on social media engagement of organization's accounts, including [Instagram](https://github.com/rmluck/Sports-Business-Association-Instagram-Data-Analysis)
+- Tracked organization member participation
+- Conducted data analysis on social media engagement of organization's accounts, including [Instagram](https://github.com/rmluck/Sports-Business-Association-Instagram-Data-Analysis)
 - Other web-related tasks
 
 ## Skills
@@ -96,10 +109,42 @@ I have familiarized myself with Python over the first year in college and have s
 
 ## Projects
 
-### [StrataScratch Exploratory Data Analysis Challenge](https://github.com/rmluck/Atlantis-Datathon-ScrataScratch-Data-Analysis), April 2024
-🏆 Won "Best Analysis of Airbnb Market in Dublin (Sponsored by SrataScratch)" Award at UCI Datathon 2024. Given SrataScratch datasets, collaborated with team to perform exploratory data analysis to analyze, visualize, and present market demand and supply, aiming to elevate Airbnb experience for guests and hosts. Leveraged tools such as DeepNote, Alteryx Designer, and Python libraries (Pandas, Matplotlib, Seaborn, NumPy, Scikit-Learn). Built visualizations such as Day & Month Performance Heatmap, Geographical Heatmap, and tested and trained a decision tree classifier machine learning model to achieve 88.48% accuracy.
+### [NFL Mock Draft Simulator](https://github.com/rmluck/NFL-Mock-Draft-Simulator), April 2025 - July 2025
+Full-stack [web application](https://nfl-mock-draft-simulator.netlify.app/) designed and developed to simulate NFL draft scenarios, allowing users to control specific teams, make real-time draft selections, and view draft results dynamically. Built with a React (Vite) frontend with JavaScript and FastAPI backend with tools like SQLAlchemy and Pydantic, using PostgreSQL for database management. Deployed with Netlify and Render. Users can simulate NFL draft round-by-round, view and track draft picks live, select specific teams to control draft picks, and undo or trade picks. For non-user-controlled picks, CPU auto-selects from big board according to positional weight-based algorithm. Export options via PNG, CSV, and JSON. Responsive frontend web design using HTML and CSS optimized for desktop. CORS-configured secure API access.
 
-Skills: DeepNote, Alteryx Designer, Scikit-Learn, Seaborn, Matplotlib, NumPy, Pandas, Python, GitHub, Google Workspace
+Skills: Full Stack Web Development, Backend Data Management and Integration, UI/UX Web Design
+Tech: Python, JavaScript, HTML, CSS, SQL
+Frontend: React (Vite), React-Router
+Backend: FastAPI (Python), SQLAlchemy, Pydantic
+Database: PostgreSQL
+Migrations: Alembic
+Deployment: Netlify (frontend), Render (backend, database)
+
+### [Yelp Review Sentiment Predictor](https://github.com/rmluck/Yelp-Review-Sentiment-Predictor), May 2025 - June 2025
+Bayesian regression model developed to predict Yelp restaurant star ratings based on review sentiment and restaurant popularity. Used review text sentiment analysis and business popularity metrics to analyze how customer perceptions and business popularity influence public ratings.
+
+Skills: Machine Learning, Bayesian Linear Regression, Data Analysis, Data Visualization
+Tech: Python, Jupyter Notebook
+Pre-Processing and Data Analysis: pandas, numpy
+Sentiment Analysis: nltk Vader
+
+### [Fabflix](https://github.com/rmluck/Fabflix), September 2024 - December 2024
+Built dynamic full stack architecture from scratch, including web application allowing customers to browse, search, and purchase films from large database consisting of over 15,000 films and 60,000 actors. Hosted application on AWS EC2 for scalable resources, integrated Tomcat, Maven, HTTPS, and MySQL. Developed ETL pipeline to parse large XML files to augment already large database. Constructed large frontend using HTML, CSS, JavaScript, jQuery, and Ajax. Implemented over 20 features within fully-functional application including importing catalogue of thousands of films, full-text search with autocomplete and sorting backed by cache and JDBC, session-based cart checkout, secure login using SHA256 password encryption hashing, bot detection using reCAPTCHA, and protection against SQL injection attacks via PreparedStatements. Improved website performance 30% by implementing optimization techniques such as MySQL connection pooling, MySQL replication, and Apache load balancing. Deployed Docker-containerized version of project on Kubernetes cluster spanning multiple AWS instances. Leveraged JMeter to analyze application performance.
+
+Skills: Full Stack Web Development, Backend Data Management and Data Integration, UI/UX Web Design
+Tech: Java, SQL, JavaScript, HTML, CSS, Ajax, jQuery
+
+### [Traffic Signal Control Using Reinforcement Learning](https://github.com/rmluck/Traffic-Signal-Control-RL), September 2024 - December 2024
+Designed and implemented multi-agent reinforcement learning (MARL) framework to optimize traffic signal control in urban environments. Focused on leveraging advanced algorithms like multi-agent proximal policy optimization (MAPPO) to dynamically adjust signal timings based on real-time traffic data, reducing congestion, minimizing vehicle delays, and increasing overall traffic throughput. System treats each intersection as independent agent capable of coordinating actions with neighboring agents while utilizing centralized training and decentralized execution. Implemented dynamic reward functions to encourage smooth traffic flow, integrated CityFlow simulation environments for large-scale testing, and used real-world datasets such as UC Irvine Traffic Flow Forecasting dataset for model evaluation. Implemented features such as detailed state representations and action spaces to manage signal phase configurations. Leveraged Ray's RLLib library to train and tune model on training simulations and improve model. Model achieved significant improvements in metrics such as mean velocity, halting duration, and lane occupancy, demonstrating scalability and adaptability in complex traffic networks.
+
+Skills: Artificial Intelligence, Machine Learning, Reinforcement Learning, Data Analysis
+Tech: Python
+
+### [StrataScratch Exploratory Data Analysis Challenge](https://github.com/rmluck/Atlantis-Datathon-ScrataScratch-Data-Analysis), April 2024
+🏆 Awarded "Best Analysis of Airbnb Market in Dublin [Sponsored by StrataScratch]" Award at UC Irvine Datathon 2024. Conducted in-depth exploratory data analysis using StrataScratch datasets. Collaborated with team to visualize insights on market supply and demand, focusing on elevating Airbnb user experience for guests and hosts. Leveraged tools such as DeepNote, Alteryx Designer, and Python libraries (Pandas, Matplotlib, Seaborn, NumPy, Scikit-Learn). Developed and tested decision tree classifier machine learning model using Python that achieved 89.35% accuracy rate leveraging tools like DeepNote and Alteryx Designer.
+
+Skills: Data Analysis, Data Visualization, Machine Learning
+Tech: Python, SQL
 
 ### Fashion-MNIST Machine Learning Analysis, February 2024 to March 2024
 Implemented and analyzed various machine learning algorithms applied to Fashion-MNIST image dataset, consisting of 70,000 images of various items of clothing. Employed several scikit-learn classifiers including K-nearest neighbors, logistic regression, feed-forward neural networks, and decision trees on dataset to optimize accuracy of results. Wrote final project report detailing process with classifiers, experiment setup and results, and insights.
