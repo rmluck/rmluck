@@ -105,83 +105,105 @@ At UC Irvine, I was also involved in various organizations such as:
 - Other web-related tasks
 
 ## Skills
-I have familiarized myself with Python over the first year in college and have some prior knowledge in JavaScript, HTML, CSS, and C++.
+Python, Java, C, C++, HTML/CSS, JavaScript, SQL, PHP, R, React, R, AWS, Tableau, DBMS, Docker, TensorFlow, PyTorch
 
 ## Projects
 
 ### [NFL Mock Draft Simulator](https://github.com/rmluck/NFL-Mock-Draft-Simulator), April 2025 - July 2025
 Full-stack [web application](https://nfl-mock-draft-simulator.netlify.app/) designed and developed to simulate NFL draft scenarios, allowing users to control specific teams, make real-time draft selections, and view draft results dynamically. Built with a React (Vite) frontend with JavaScript and FastAPI backend with tools like SQLAlchemy and Pydantic, using PostgreSQL for database management. Deployed with Netlify and Render. Users can simulate NFL draft round-by-round, view and track draft picks live, select specific teams to control draft picks, and undo or trade picks. For non-user-controlled picks, CPU auto-selects from big board according to positional weight-based algorithm. Export options via PNG, CSV, and JSON. Responsive frontend web design using HTML and CSS optimized for desktop. CORS-configured secure API access.
 
-Skills: Full Stack Web Development, Backend Data Management and Integration, UI/UX Web Design
-Tech: Python, JavaScript, HTML, CSS, SQL
-Frontend: React (Vite), React-Router
-Backend: FastAPI (Python), SQLAlchemy, Pydantic
-Database: PostgreSQL
-Migrations: Alembic
-Deployment: Netlify (frontend), Render (backend, database)
+**Skills**: Full Stack Web Development, Backend Data Management and Integration, UI/UX Web Design
+
+**Tech**: Python, JavaScript, HTML, CSS, SQL
+
+**Frontend**: React (Vite), React-Router
+
+**Backend**: FastAPI (Python), SQLAlchemy, Pydantic
+
+**Database**: PostgreSQL
+
+**Migrations**: Alembic
+
+**Deployment**: Netlify (frontend), Render (backend, database)
 
 ### [Yelp Review Sentiment Predictor](https://github.com/rmluck/Yelp-Review-Sentiment-Predictor), May 2025 - June 2025
 Bayesian regression model developed to predict Yelp restaurant star ratings based on review sentiment and restaurant popularity. Used review text sentiment analysis and business popularity metrics to analyze how customer perceptions and business popularity influence public ratings.
 
-Skills: Machine Learning, Bayesian Linear Regression, Data Analysis, Data Visualization
-Tech: Python, Jupyter Notebook
-Pre-Processing and Data Analysis: pandas, numpy
-Sentiment Analysis: nltk Vader
+**Skills**: Machine Learning, Bayesian Linear Regression, Data Analysis, Data Visualization
+
+**Tech**: Python, Jupyter Notebook
+
+**Pre-Processing and Data Analysis**: pandas, numpy
+
+**Sentiment Analysis**: nltk Vader
 
 ### [Fabflix](https://github.com/rmluck/Fabflix), September 2024 - December 2024
 Built dynamic full stack architecture from scratch, including web application allowing customers to browse, search, and purchase films from large database consisting of over 15,000 films and 60,000 actors. Hosted application on AWS EC2 for scalable resources, integrated Tomcat, Maven, HTTPS, and MySQL. Developed ETL pipeline to parse large XML files to augment already large database. Constructed large frontend using HTML, CSS, JavaScript, jQuery, and Ajax. Implemented over 20 features within fully-functional application including importing catalogue of thousands of films, full-text search with autocomplete and sorting backed by cache and JDBC, session-based cart checkout, secure login using SHA256 password encryption hashing, bot detection using reCAPTCHA, and protection against SQL injection attacks via PreparedStatements. Improved website performance 30% by implementing optimization techniques such as MySQL connection pooling, MySQL replication, and Apache load balancing. Deployed Docker-containerized version of project on Kubernetes cluster spanning multiple AWS instances. Leveraged JMeter to analyze application performance.
 
-Skills: Full Stack Web Development, Backend Data Management and Data Integration, UI/UX Web Design
-Tech: Java, SQL, JavaScript, HTML, CSS, Ajax, jQuery
+**Skills**: Full Stack Web Development, Backend Data Management and Data Integration, UI/UX Web Design
+
+**Tech**: Java, SQL, JavaScript, HTML, CSS, Ajax, jQuery
 
 ### [Traffic Signal Control Using Reinforcement Learning](https://github.com/rmluck/Traffic-Signal-Control-RL), September 2024 - December 2024
 Designed and implemented multi-agent reinforcement learning (MARL) framework to optimize traffic signal control in urban environments. Focused on leveraging advanced algorithms like multi-agent proximal policy optimization (MAPPO) to dynamically adjust signal timings based on real-time traffic data, reducing congestion, minimizing vehicle delays, and increasing overall traffic throughput. System treats each intersection as independent agent capable of coordinating actions with neighboring agents while utilizing centralized training and decentralized execution. Implemented dynamic reward functions to encourage smooth traffic flow, integrated CityFlow simulation environments for large-scale testing, and used real-world datasets such as UC Irvine Traffic Flow Forecasting dataset for model evaluation. Implemented features such as detailed state representations and action spaces to manage signal phase configurations. Leveraged Ray's RLLib library to train and tune model on training simulations and improve model. Model achieved significant improvements in metrics such as mean velocity, halting duration, and lane occupancy, demonstrating scalability and adaptability in complex traffic networks.
 
-Skills: Artificial Intelligence, Machine Learning, Reinforcement Learning, Data Analysis
-Tech: Python
+**Skills**: Artificial Intelligence, Machine Learning, Reinforcement Learning, Data Analysis
+
+**Tech**: Python
 
 ### [StrataScratch Exploratory Data Analysis Challenge](https://github.com/rmluck/Atlantis-Datathon-ScrataScratch-Data-Analysis), April 2024
 🏆 Awarded "Best Analysis of Airbnb Market in Dublin [Sponsored by StrataScratch]" Award at UC Irvine Datathon 2024. Conducted in-depth exploratory data analysis using StrataScratch datasets. Collaborated with team to visualize insights on market supply and demand, focusing on elevating Airbnb user experience for guests and hosts. Leveraged tools such as DeepNote, Alteryx Designer, and Python libraries (Pandas, Matplotlib, Seaborn, NumPy, Scikit-Learn). Developed and tested decision tree classifier machine learning model using Python that achieved 89.35% accuracy rate leveraging tools like DeepNote and Alteryx Designer.
 
-Skills: Data Analysis, Data Visualization, Machine Learning
-Tech: Python, SQL
+**Skills**: Data Analysis, Data Visualization, Machine Learning
+
+**Tech**: Python, SQL
 
 ### Fashion-MNIST Machine Learning Analysis, February 2024 to March 2024
 Implemented and analyzed various machine learning algorithms applied to Fashion-MNIST image dataset, consisting of 70,000 images of various items of clothing. Employed several scikit-learn classifiers including K-nearest neighbors, logistic regression, feed-forward neural networks, and decision trees on dataset to optimize accuracy of results. Wrote final project report detailing process with classifiers, experiment setup and results, and insights.
 
-Skills: Machine Learning, Python, Data Analysis, Experimental Design, Experimental Analysis
+**Skills**: Machine Learning, Python, Data Analysis, Experimental Design, Experimental Analysis
 
 ### Google Developer Student Solution Challenge, January 2024 to February 2024
 
 ### [Netflix Data Project](https://github.com/rmluck/Netflix-Data-Project), March 2023 to February 2024
-Used Python, pandas, and Matplotlib to create project that - given a .csv file containing viewing history of a Netflix account - uses past viewing data to conduct analysis and chart graphs based on viewing frequency, viewing duration, where and when viewing occurred, most watched content, and more.
+Web application designed and developed using Python libraries to process and analyze Netflix viewing history, deployed with Streamlit. Generated visualizations and insights regarding viewing patterns based on frequency, duration, and location, providing comprehensive overview of user behavior.
 
-Skills: Data Analysis, Pandas, Statistics, Matplotlib, Python, Seaborn, NumPy, Data Visualization
+**Skills**: Web Development, Data Analysis, Statistics, Data Visualization
+
+**Tech**: Python
+
+**Frontend**: Streamlit
+
+**Data Analysis**: pandas, numpy
+
+**Visualization**: matplotlib, seaborn
+
+**Deployment**: Streamlit Community Cloud
 
 ### Checkers AI, September 2023 to December 2023
 Developed a Checkers AI agent using Python which could solve a Checkers game and win over 50% of games against an Average AI model. The agent could read percepts and act rationally based on the opposing player's moves. Implemented Monte Carlo tree search.
 
-Skills: Python, Artificial Intelligence
+**Skills**: Python, Artificial Intelligence
 
 ### Search Engine and Web Crawler, September 2023 to December 2023
 Implemented and designed a customized web search engine and crawler that handled 50,000+ documents under operational constraints with a query response time under 100ms. Incorporated partial indexing and used a Porter stemmer to improve textual matches. The scraper parsed web responses and extracted critical information for a detailed report. Improved ranking accuracy by 75% for a subset of UCI web domain pages through tf-idf scoring and cosine similarity alongside weighted HTML tags. Used sim-hashing to detect and eliminate near-duplicate pages. Built and incorporated a tokenizer that processes text and can output word frequencies of a page and shared word frequencies between two pages.
 
-Skills: Beautiful Soup, Search Engine Optimization, Web Scraping, Python, HTML
+**Skills**: Beautiful Soup, Search Engine Optimization, Web Scraping, Python, HTML
 
 ### The Fall of the World's Own Optimist, February 2022
 Designed fully-functioning Columns match-three puzzle video game with grid-field of cells and cooled jewels that fall, freeze, match, rotate, shift, and disappear throughout gameplay. PyGame implemented to build playable version of game.
 
-Skills: Pygame, Python
+**Skills**: Pygame, Python
 
 ### Try Not to Breathe, February 2022
 Created air quality analysis program that takes location input and Air Quality Index threshold and connects to PurpleAir web API for air quality monitoring sensor data to determine variable number of nearby locations with poorest air quality. Nominatim API, forward geocoding, and reverse geocoding methods used to calculate nearest locations.
 
-Skills: Data Analysis, API, Python, Geocoding
+**Skills**: Data Analysis, API, Python, Geocoding
 
 ### Vizzor, August 2020 to May 2021
 Capstone group project involving a complete engineering research and design process. Investigated and researched solar ultraviolet radiation issues relating to driving. Documented and analyzed prior solution attempts and patents on the market for automobile sun visors that block sun radiation. Brainstormed potential design concepts and generated sketches and 3D-models, concluded by printing and constructing a physical prototype of a car visor. Presented to Civil Engineering and Architecture class.
 
-Skills: Engineering Research, Market Research, Prototyping, Product Design, 3D Modeling
+**Skills**: Engineering Research, Market Research, Prototyping, Product Design, 3D Modeling
 
 ## High School
 Prior to entering college, I was a student at Ruben S. Ayala High, part of their Academy of Engineering and Computer Sciences for four years. Co-founded the Ayala VEX Robotics Club and Ayala Information & Computer Science Club. For the former, I was treasurer for three years, managing the club's budget, scheduling fundraisers and purchasing necessary robotics parts and equipment. I was also the primary programmer (C++) for my individual robotics team for four years.
