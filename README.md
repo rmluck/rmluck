@@ -159,9 +159,21 @@ Designed and implemented multi-agent reinforcement learning (MARL) framework to 
 **Tech**: Python, SQL
 
 ### Fashion-MNIST Machine Learning Analysis, February 2024 to March 2024
-Implemented and analyzed various machine learning algorithms applied to Fashion-MNIST image dataset, consisting of 70,000 images of various items of clothing. Employed several scikit-learn classifiers including K-nearest neighbors, logistic regression, feed-forward neural networks, and decision trees on dataset to optimize accuracy of results. Wrote final project report detailing process with classifiers, experiment setup and results, and insights.
+Web application developed using Python and TensorFlow/Keras to classify images from the Fashion MNIST dataset which consists of 70,000 images of various items of clothing. Users can upload grayscale 28x28 images to receive predictions from several employed scikit-learn machine learning models including logistic regression, K-nearest neighbors, feed-forward neural networks, and convolutional neural networks. The app also supports evaluation on the test set with detailed visualizations.
 
-**Skills**: Machine Learning, Python, Data Analysis, Experimental Design, Experimental Analysis
+**Skills**: Machine Learning, Data Visualization
+
+**Tech**: Python
+
+**Frontend**: Streamlit
+
+**Machine Learning**: TensorFlow/Keras, scikit-learn
+
+**Data Processing**: numpy, PIL
+
+**Visualization**: matplotlib, seaborn, pandas
+
+**Deployment**: Streamlit Community Cloud
 
 ### Google Developer Student Solution Challenge, January 2024 to February 2024
 
