@@ -158,7 +158,7 @@ Designed and implemented multi-agent reinforcement learning (MARL) framework to 
 
 **Tech**: Python, SQL
 
-### Fashion-MNIST Machine Learning Analysis, February 2024 to March 2024
+### [Fashion-MNIST Machine Learning Analysis](https://github.com/rmluck/Fashion-MNIST-Machine-Learning-Classifier), February 2024 to March 2024
 Web application developed using Python and TensorFlow/Keras to classify images from the Fashion MNIST dataset which consists of 70,000 images of various items of clothing. Users can upload grayscale 28x28 images to receive predictions from several employed scikit-learn machine learning models including logistic regression, K-nearest neighbors, feed-forward neural networks, and convolutional neural networks. The app also supports evaluation on the test set with detailed visualizations.
 
 **Skills**: Machine Learning, Data Visualization
