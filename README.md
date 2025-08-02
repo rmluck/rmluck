@@ -8,7 +8,6 @@ You can reach out to me via email at rohandm99@yahoo.com, Discord, Instagram, or
 <a href="https://www.instagram.com/rohandm99/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100px"/></a>
 <a href="https://discordapp.com/users/740331366360809504"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100px"/></a>
 
-
 <br/>
 
 ## Experience
@@ -41,41 +40,42 @@ You can reach out to me via email at rohandm99@yahoo.com, Discord, Instagram, or
 ## Academics
 <pre>
 Below are the relevant courses I have taken at UC Irvine:
-- COMPSCI 142A      : Compilers and Interpreters                                      (Spring 2025)
-- COMPSCI 162       : Formal Languages and Automata                                   (Spring 2025)
-- COMPSCI 179       : Algorithms for Probabilistic and Deterministic Graphical Models (Spring 2025)
-- COMPSCI 122B      : Project in Databases and Web Applications                       (Fall 2024)
-- COMPSCI 141       : Concepts of Programming Languages I                             (Fall 2024)
-- COMPSCI 175       : Project in Artificial Intelligence                              (Fall 2024)
-- COMPSCI 165       : Project in Algorithms and Data Structures                       (Spring 2024)
-- IN4MATX 131       : Human Computer Interaction                                      (Spring 2024)
-- COMPSCI 178       : Machine Learning and Data-Mining                                (Winter 2024)
-- COMPSCI 143A      : Principles in Operating Systems                                 (Winter 2024)
-- COMPSCI 121       : Information Retrieval                                           (Fall 2023)
-- COMPSCI 161       : Design and Analysis of Algorithms                               (Fall 2023)
-- COMPSCI 171       : Introduction to Artificial Intelligence                         (Fall 2023)
-- COMPSCI 122A      : Introduction to Data Management (SQL)                           (Spring 2023)
-- I&C SCI 53        : Principles in System Design                                     (Spring 2023)
-- I&C SCI 46        : Data Structure Implementation and Analysis                      (Winter 2023)
-- I&C SCI 45J       : Programming in Java as a Second Language                        (Winter 2023)
-- STATS 67          : Introduction to Probability and Statistics in Computer Science  (Winter 2023)
-- I&C SCI 45C       : Programming in C/C++ as a Second Language                       (Fall 2022)
-- I&C SCI 51        : Introductory Computer Organization                              (Fall 2022)
-- IN4MATX 43        : Introduction to Software Engineering (Python)                   (Fall 2022)
-- I&C SCI 33        : Intermediate Programming (Python)                               (Spring 2022)
-- I&C SCI 6N        : Computational Linear Algebra (w/ NumPy)                         (Spring 2022)
-- ICSSC Fellowship  : Web Development                                                 (Spring 2022)
-- I&C SCI 32        : Programming with Software Libraries (Python)                    (Winter 2022)
-- I&C SCI 6D        : Discrete Mathematics for Computer Science                       (Winter 2022)
-- I&C SCI 31        : Introduction to Programming (Python)                            (Fall 2021)
-- I&C SCI 6B        : Boolean Logic and Discrete Structures                           (Fall 2021)
-- I&C SCI 90        : New C.S. Student Seminar                                        (Fall 2021)
+| COURSE | NAME | QUARTER |
+| --- | --- | --- |
+| COMPSCI 142A | Compilers and Interpreters | Spring 2025 |
+| COMPSCI 162 | Formal Languages and Automata | Spring 2025 |
+| COMPSCI 179 | Algorithms for Probabilistic and Deterministic Graphical Models | Spring 2025 |
+| COMPSCI 122B | Project in Databases and Web Applications | Fall 2024 |
+| COMPSCI 141 | Concepts of Programming Languages I | Fall 2024 |
+| COMPSCI 175 | Project in Artificial Intelligence | Fall 2024 |
+| COMPSCI 165 | Project in Algorithms and Data Structures | Spring 2024 |
+| IN4MATX 131 | Human Computer Algorithm | Spring 2024 |
+| COMPSCI 178 | Machine Learning and Data-Mining | Winter 2024 |
+| COMPSCI 143A | Principles in Operating Systems | Winter 2024 |
+| COMPSCI 121 | Information Retrieval | Fall 2023 |
+| COMPSCI 161 | Design and Analysis of Algorithms | Fall 2023 |
+| COMPSCI 171 | Introduction to Artificial Intelligence | Fall 2023 |
+| I&C SCI 53 | Principles in System Design | Spring 2023 |
+| I&C SCI 46 | Data Structure Implementation and Analysis | Winter 2023 |
+| I&C SCI 45J | Programming in Java as a Second Language | Winter 2023 |
+| STATS 67 | Introduction to Probability and Statistics in Computer Science | Winter 2023 |
+| I&C SCI 45C | Programming in C/C++ as a Second Language | Fall 2022 |
+| I&C SCI 51 | Introductory Computer Organization | Fall 2022 |
+| IN4MATX 43 | Introduction to Software Engineering | Fall 2022 |
+| I&C SCI 33 | Intermediate Programming | Spring 2022 |
+| I&C SCI 6N | Computational Linear Algebra | Spring 2022 |
+| I&C SCI 32 | Programming with Software Libraries | Winter 2022 |
+| I&C SCI 6D | Discrete Mathematics for Computer Science | Winter 2022 |
+| I&C SCI 31 | Introduction to Programming | Fall 2021 |
+| I&C SCI 6B | Boolean Logic and Discrete Structures | Fall 2021 |
+| I&C SCI 90 | New C.S. Student Seminar | Fall 2021 |
 
 ### Outside Courses
 - Getting Started with AI using IBM Watson (IBM)
 - Introduction to Artificial Intelligence (IBM)
 - Introduction to Data Analytics (IBM)
 - Introduction to Software Engineering (CodePath)
+- Web Development (ICSSC Fellowship)
   
 ### High School Courses:
 - Engineering Design and Development (2020-21)
