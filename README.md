@@ -132,9 +132,9 @@ Bayesian regression model developed to predict Yelp restaurant star ratings base
 
 **Tech**: Python, Jupyter Notebook
 
-**Pre-Processing and Data Analysis**: pandas, numpy
+**Pre-Processing and Data Analysis**: `pandas`, `numpy`
 
-**Sentiment Analysis**: nltk Vader
+**Sentiment Analysis**: `nltk` Vader
 
 ### [Fabflix](https://github.com/rmluck/Fabflix), September 2024 - December 2024
 Built dynamic full stack architecture from scratch, including web application allowing customers to browse, search, and purchase films from large database consisting of over 15,000 films and 60,000 actors. Hosted application on AWS EC2 for scalable resources, integrated Tomcat, Maven, HTTPS, and MySQL. Developed ETL pipeline to parse large XML files to augment already large database. Constructed large frontend using HTML, CSS, JavaScript, jQuery, and Ajax. Implemented over 20 features within fully-functional application including importing catalogue of thousands of films, full-text search with autocomplete and sorting backed by cache and JDBC, session-based cart checkout, secure login using SHA256 password encryption hashing, bot detection using reCAPTCHA, and protection against SQL injection attacks via PreparedStatements. Improved website performance 30% by implementing optimization techniques such as MySQL connection pooling, MySQL replication, and Apache load balancing. Deployed Docker-containerized version of project on Kubernetes cluster spanning multiple AWS instances. Leveraged JMeter to analyze application performance.
@@ -150,14 +150,24 @@ Designed and implemented multi-agent reinforcement learning (MARL) framework to 
 
 **Tech**: Python
 
-### [StrataScratch Exploratory Data Analysis Challenge](https://github.com/rmluck/Atlantis-Datathon-ScrataScratch-Data-Analysis), April 2024
+### [Atlantis Datathon StrataScratch Exploratory Data Analysis](https://github.com/rmluck/Atlantis-Datathon-StrataScratch-Exploratory-Data-Analysis), April 2024
 🏆 Awarded "Best Analysis of Airbnb Market in Dublin [Sponsored by StrataScratch]" Award at UC Irvine Datathon 2024. Conducted in-depth exploratory data analysis using StrataScratch datasets. Collaborated with team to visualize insights on market supply and demand, focusing on elevating Airbnb user experience for guests and hosts. Leveraged tools such as DeepNote, Alteryx Designer, and Python libraries (Pandas, Matplotlib, Seaborn, NumPy, Scikit-Learn). Developed and tested decision tree classifier machine learning model using Python that achieved 89.35% accuracy rate leveraging tools like DeepNote and Alteryx Designer.
 
 **Skills**: Data Analysis, Data Visualization, Machine Learning
 
-**Tech**: Python, SQL
+**Tech**: Python, Jupyter Notebook
 
-### [Fashion-MNIST Machine Learning Analysis](https://github.com/rmluck/Fashion-MNIST-Machine-Learning-Classifier), February 2024 to March 2024
+**Data Analysis**: `pandas`, `numpy`, Alteryx Designer
+
+**Machine Learning**: `scikit-learn`
+
+**Visualization**: `seaborn`, `matplotlib`
+
+**Presentation**: DeepNote, Google Slides
+
+**Collaboration**: Google Workspace
+
+### [Fashion-MNIST Machine Learning Classifier](https://github.com/rmluck/Fashion-MNIST-Machine-Learning-Classifier), February 2024 to March 2024
 Web application developed using Python and TensorFlow/Keras to classify images from the Fashion MNIST dataset which consists of 70,000 images of various items of clothing. Users can upload grayscale 28x28 images to receive predictions from several employed scikit-learn machine learning models including logistic regression, K-nearest neighbors, feed-forward neural networks, and convolutional neural networks. The app also supports evaluation on the test set with detailed visualizations.
 
 **Skills**: Machine Learning, Data Visualization
@@ -166,17 +176,17 @@ Web application developed using Python and TensorFlow/Keras to classify images f
 
 **Frontend**: Streamlit
 
-**Machine Learning**: TensorFlow/Keras, scikit-learn
+**Machine Learning**: TensorFlow/Keras, `scikit-learn`
 
-**Data Processing**: numpy, PIL
+**Data Processing**: `numpy`, `PIL` (Pillow)
 
-**Visualization**: matplotlib, seaborn, pandas
+**Visualization**: `matplotlib`, `seaborn`, `pandas`
 
 **Deployment**: Streamlit Community Cloud
 
 ### Google Developer Student Solution Challenge, January 2024 to February 2024
 
-### [Netflix Data Project](https://github.com/rmluck/Netflix-Data-Project), March 2023 to February 2024
+### [Netflix Viewing Activity Analysis](https://github.com/rmluck/Netflix-Viewing-Activity-Analysis), March 2023 to February 2024
 Web application designed and developed using Python libraries to process and analyze Netflix viewing history, deployed with Streamlit. Generated visualizations and insights regarding viewing patterns based on frequency, duration, and location, providing comprehensive overview of user behavior.
 
 **Skills**: Web Development, Data Analysis, Statistics, Data Visualization
@@ -185,9 +195,9 @@ Web application designed and developed using Python libraries to process and ana
 
 **Frontend**: Streamlit
 
-**Data Analysis**: pandas, numpy
+**Data Analysis**: `pandas`, `numpy`
 
-**Visualization**: matplotlib, seaborn
+**Visualization**: `matplotlib`, `seaborn`
 
 **Deployment**: Streamlit Community Cloud
 
