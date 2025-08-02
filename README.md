@@ -38,7 +38,7 @@ You can reach out to me via email at rohandm99@yahoo.com, Discord, Instagram, or
 - Maintained hub-based warehouse and conducted regular inventories
 
 ## Academics
-<pre>
+
 Below are the relevant courses I have taken at UC Irvine:
 | COURSE | NAME | QUARTER |
 | --- | --- | --- |
@@ -83,7 +83,6 @@ Below are the relevant courses I have taken at UC Irvine:
 - Civil Engineering and Architecture (2019-20)
 - AP Computer Science Principles (2018-19)
 - Introduction to Engineering Design (2017-18)
-</pre>
 
 At UC Irvine, I was also involved in various organizations such as:
 - Sports Business Association
