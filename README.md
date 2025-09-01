@@ -108,6 +108,23 @@ Python, Java, C, C++, HTML/CSS, JavaScript, SQL, PHP, R, React, R, AWS, Tableau,
 
 ## Projects
 
+### [NASA Media Explorer](https://github.com/rmluck/NASA-Media-Explorer), August 2025
+Search engine application for exploring NASA's public image and video library. Built with Python for data crawling and indexing, spaCy for natural language processing, and FastAPI for serving search results. Frontend features dynamic interface with HTML, CSS, and JavaScript, offering an interactive grid layout, infinite scrolling, and advanced filtering for seaamless media discovery.
+
+**Skills**: Full Stack Web Development, Search Engine Optimization, Web Scraping, Information Retrieval, Natural Language Processing
+
+**Tech**: Python, JavaScript, HTML, CSS
+
+**Frontend**: Jinja2 templates, Bootstrap
+
+**Backend**: FastAPI (Python), Uvicorn
+
+**Crawling**: HTTP requests
+
+**Natural Language Processing**: `spaCy`, `regex`
+
+**Indexing**: JSON, `pickle`
+
 ### [NFL Mock Draft Simulator](https://github.com/rmluck/NFL-Mock-Draft-Simulator), April 2025 - July 2025
 Full-stack [web application](https://nfl-mock-draft-simulator.netlify.app/) designed and developed to simulate NFL draft scenarios, allowing users to control specific teams, make real-time draft selections, and view draft results dynamically. Built with a React (Vite) frontend with JavaScript and FastAPI backend with tools like SQLAlchemy and Pydantic, using PostgreSQL for database management. Deployed with Netlify and Render. Users can simulate NFL draft round-by-round, view and track draft picks live, select specific teams to control draft picks, and undo or trade picks. For non-user-controlled picks, CPU auto-selects from big board according to positional weight-based algorithm. Export options via PNG, CSV, and JSON. Responsive frontend web design using HTML and CSS optimized for desktop. CORS-configured secure API access.
 
